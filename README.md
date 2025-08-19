@@ -3,6 +3,12 @@
 An AI-powered assistant that allows users to **upload PDFs** and ask natural language questions about their content.  
 Built with **LangChain**, **OpenAI GPT API**, and a **full-stack React + Express.js** architecture.  
 
+## 📺 Demo Video
+
+Click the screenshot below to watch the demo:
+
+[![Demo Screenshot](./demo.png)](./PDF-AI_demo.mp4)
+
 ## 🚀 Features
 - **PDF Upload & Processing**  
   Upload a PDF file and interact with its content through natural language queries.
