@@ -1,4 +1,4 @@
-# 📄 Conversational PDF Q&A System
+# 📄 PDF-AI: Conversational PDF Q&A System
 
 An AI-powered assistant that allows users to **upload PDFs** and ask natural language questions about their content.  
 Built with **LangChain**, **OpenAI GPT API**, and a **full-stack React + Express.js** architecture.  
